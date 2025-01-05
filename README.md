@@ -38,7 +38,7 @@ to be considered?
 ```
 1. Here we will discuss about the discrete space that I was talking about earlier. Since image is made up of pixels,
 we are just joining the edges between nodes/pixels. That means we have discretized the space which we can't mimick
-in the real world. For this, sampling based path planning could be used which gives a smoother path for robot to follow.
+in the real world. For this, sampling based path planning which gives a smoother path for robot to follow.
 Similarly, we also need to define the kinematic motion model of the vehicle to see check if we can follow that path
 and then use a path following algorithm on the path.
 
