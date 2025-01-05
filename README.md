@@ -60,3 +60,7 @@ deceleration to follow the path.
 
 
 (make sure you have installed numpy, open cv and matplotlib)
+
+## Additional comments
+
+{Chat AI is used to help with the code, specifically in path reconstruction as well as to set the template of the algorithm}
